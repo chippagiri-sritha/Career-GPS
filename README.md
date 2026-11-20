@@ -11,7 +11,6 @@ Career GPS is a Streamlit-powered application designed to provide personalized c
 
 * **Personalized Career Roadmap Generation**: Users can input their existing skills and desired career goals to receive a customized weekly learning roadmap.
 * **AI-Powered Guidance**: Utilizes the Mistral-7B Instruct model via the OpenRouter API for roadmap generation. This model is specifically engineered through prompt engineering to act as a friendly and professional career roadmap mentor.
-* **RAG for Trusted Resources**: Integrates the Serper.dev API for web search, enabling the AI to provide verified and relevant learning resources and links, preventing hallucination.
 * **Progress Tracking Dashboard**: A dedicated dashboard allows users to:
     * Mark weekly goals as completed.
     * Add and edit their weekly goals.
